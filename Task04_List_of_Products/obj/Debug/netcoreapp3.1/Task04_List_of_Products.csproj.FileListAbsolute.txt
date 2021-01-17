@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\bin\Debug\netcoreapp3.1\Task04_List_of_Products.exe
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\bin\Debug\netcoreapp3.1\Task04_List_of_Products.deps.json
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\bin\Debug\netcoreapp3.1\Task04_List_of_Products.runtimeconfig.json
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\bin\Debug\netcoreapp3.1\Task04_List_of_Products.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\bin\Debug\netcoreapp3.1\Task04_List_of_Products.dll
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\bin\Debug\netcoreapp3.1\Task04_List_of_Products.pdb
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\obj\Debug\netcoreapp3.1\Task04_List_of_Products.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\obj\Debug\netcoreapp3.1\Task04_List_of_Products.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\obj\Debug\netcoreapp3.1\Task04_List_of_Products.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\obj\Debug\netcoreapp3.1\Task04_List_of_Products.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\obj\Debug\netcoreapp3.1\Task04_List_of_Products.dll
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\obj\Debug\netcoreapp3.1\Task04_List_of_Products.pdb
+C:\Users\Kiril\source\repos\05_Lab\Task04_List_of_Products\obj\Debug\netcoreapp3.1\Task04_List_of_Products.genruntimeconfig.cache
