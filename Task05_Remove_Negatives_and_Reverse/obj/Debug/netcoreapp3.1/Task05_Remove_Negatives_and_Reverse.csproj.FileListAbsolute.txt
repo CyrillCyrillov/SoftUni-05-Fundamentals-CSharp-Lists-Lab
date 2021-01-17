@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\bin\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.exe
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\bin\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.deps.json
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\bin\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.runtimeconfig.json
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\bin\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\bin\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.dll
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\bin\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.pdb
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\obj\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\obj\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\obj\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\obj\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\obj\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.dll
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\obj\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.pdb
+C:\Users\Kiril\source\repos\05_Lab\Task05_Remove_Negatives_and_Reverse\obj\Debug\netcoreapp3.1\Task05_Remove_Negatives_and_Reverse.genruntimeconfig.cache
