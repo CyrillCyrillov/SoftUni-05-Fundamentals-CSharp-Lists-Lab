@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.exe
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.deps.json
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.runtimeconfig.json
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.dll
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.pdb
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.dll
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.pdb
+C:\Users\Kiril\source\repos\05_Lab\Task07_List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\Task07_List_Manipulation_Advanced.genruntimeconfig.cache
